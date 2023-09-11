@@ -28,7 +28,7 @@ Cada una de estas carpetas contiene 2 carpetas para los modulos de Estadistica y
 
 ## Archivos para revisión
 * Modulo 1: Estadistica
-* * [SMA0102 - Técnicas analíticas.](./Final/Módulo%201:%20Estadistica/)
+* * [SMA0102 - Técnicas analíticas.](./Final/Módulo%201:%20Estadistica/SMA0102/)
 
 * Modulo 2: Machine Learning
 * * [SMA0401A - Análisis y Reporte sobre el desempeño del modelo.](./Final/Modulo%202:%20Machine%20Learning/SMA0401A/)
